@@ -1,0 +1,8 @@
+{
+  "name": "yesdoctor",
+  "version": "0.0.1",
+  "description": "An automated compounder",
+  "main": "index.html",
+  "author": "ameypotnis",
+  "license": "ISC"
+}
